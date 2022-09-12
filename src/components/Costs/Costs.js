@@ -16,7 +16,6 @@ const Costs = (props) => {
     return cost.date.getFullYear().toString() == selectedYear;
   });
 
-  
 
   return (
     <div>
